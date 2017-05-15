@@ -1,0 +1,4 @@
+curl -H "Content-Type: application/json" -X POST -d '{"kbsize":"454545", "datemovie":"2017-02-13 00:00", "moviefilename":"video.mp4", "imagefilename":"frame.jpeg"}' http://localhost:8090/api/media/create
+
+
+"id":18,"moviepath":"\/media\/movie","moviefilename":null,"imagepath":"\/media\/image","imagefilename":null,"frametitle":null,"cameraname":null,"kbsize":454545,"datemovie":null,"created_at":"2017-02-13 13:10:38","updated_at":"2017-02-13 13:10:38"}]}
